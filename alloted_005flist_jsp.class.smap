@@ -1,0 +1,16 @@
+SMAP
+alloted_005flist_jsp.java
+JSP
+*S JSP
+*F
++ 0 alloted_list.jsp
+alloted_list.jsp
+*L
+5,61:45
+67,10:107
+76,2:117
+78,8:119,3
+86,3:143
+88,5:146
+92,10:151
+*E
